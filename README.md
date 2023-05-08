@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=lina1919&show_icons=true&theme=dark)
 <!--
 **lina1919/lina1919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
