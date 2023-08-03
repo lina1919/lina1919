@@ -3,6 +3,7 @@
 ![Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=lina1919&show_icons=true&theme=omni)
 
 
+
 ## Learning | Using 🧠
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"> 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> 
