@@ -14,8 +14,6 @@
 
 [![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=lina1919&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmmertpolat)](https://www.linkedin.com/in/%EC%9C%A0%EB%A6%BC-%EB%B0%95-a893311b4/)
 
-## Blog
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=yurimy&postId=32&theme=tistory)](https://github.com/loosie/github-readme-tistory-card)
 
 
 <!--
